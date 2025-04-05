@@ -22,7 +22,7 @@
 <thead>
   <tr>
     <td>
-        <p align="center">Expert</p>
+        <p align="center">Créditos para <b>Expert</b></p>
         <a href="https://github.com/juniorjrjl">
         <img src="https://avatars.githubusercontent.com/u/6619093?u=0afe982a654793dfc9e886acab8b417aa632f511&v=4" alt="@felipeAguiarCode"><br>
       </a>
